@@ -1,7 +1,9 @@
 # goPlay
 
-cd password-generator
-make build
+cd generate-password
+
+$ go run main.go --length=16 --special
+Generated Password: aG#3sF$9mN1qZ&7W
 
 # URL Shortener Service
 ## Endpoints
